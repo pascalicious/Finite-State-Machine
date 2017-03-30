@@ -1,2 +1,2 @@
-# game-state
-A tutorial on how to control the execution of your game by using different states
+# Finite state machines
+A tutorial on about using FSM;s in game development
